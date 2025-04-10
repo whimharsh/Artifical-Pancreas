@@ -45,5 +45,3 @@ Based on the science project by Science Buddies
 Adapted and implemented by Harsh Saini
 
 ---
-
-© 2025 Harsh Saini | MIT License
